@@ -4,3 +4,4 @@
 # 02_urllib_一个类型和6个方法
 # 03_urllib_下载
 # 04_urllib_请求对象的定制
+# 05_urllib_get请求的quote的方法
