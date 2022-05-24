@@ -5,3 +5,4 @@
 # 03_urllib_下载
 # 04_urllib_请求对象的定制
 # 05_urllib_get请求的quote的方法
+# 06_urllib_get请求的urlencode的方法
