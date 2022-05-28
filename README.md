@@ -9,3 +9,4 @@
 # 08_urllib_post请求百度详细翻译
 # 09_ajax的get请求豆瓣电影第一页
 # 10_ajax的get请求豆瓣电影前十页电影
+# 11_ajax的pose请求肯德基官网
