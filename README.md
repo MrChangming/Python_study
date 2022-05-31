@@ -12,3 +12,4 @@
 # 11_ajax的pose请求肯德基官网
 # 12_Python_爬虫_异常
 # 13_urllib_微博的cookie登录
+# 14_handler处理器的基本类型
