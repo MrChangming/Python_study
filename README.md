@@ -24,3 +24,4 @@
 # 20_解析_josnpath
 # 21_解析_josnpath解析淘票票
 # 22_解析_bs4的基本使用
+# 25_requests_基本使用
