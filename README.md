@@ -26,3 +26,4 @@
 # 22_解析_bs4的基本使用
 # 25_requests_基本使用
 # 26_requests_cookie登录古诗文
+# 27scrapy_baidu_27
